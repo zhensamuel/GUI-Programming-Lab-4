@@ -30,4 +30,4 @@ filterBar.addEventListener('click', function(event) {
    }
   }
  });
-});z
+});
